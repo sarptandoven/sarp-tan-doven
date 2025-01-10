@@ -1189,7 +1189,7 @@
                     <img id="experience11" src="../static/imgs/experience/experience11.webp" alt="EXPERIENCE">
                 </div>
                 <div class="company-logo">
-                    <img src="../static/imgs/experience/TBA.webp" alt="TBA">
+                    <img id="smiley11" src="../static/imgs/experience/smiley.webp" alt="SMILEY">
                 </div>
                 <div class="company-logo">
                     <img src="../static/imgs/experience/tba.webp" alt="TBA">
@@ -1256,18 +1256,52 @@
                     </p>
                 </div>
             </div>
+            <div class="timeline" id="smiley_timeline" style="display: none;">
+                <div class="timeline-item">
+                    <p style="font-size: 30px; color: #de1310; font-family: 'BebasNeue', sans-serif;">S.D</p>
+                    <p style="font-size: 12px; color: #b8b8b8;">August 2923 - 3948</p>
+                    <p style="font-size: 14px; text-align: justify; width:90%">DESCRIPT<br><br>DESCRIPT</p>
+                    <br>
+                </div>
+                <div class="timeline-item">
+                    <h2 style="color:#de1310; font-family: 'BebasNeue', sans-serif;">Developer</h2>
+                    <p style="font-size: 12px; color: #b8b8b8;">August 2000 - July 2033</p>
+                    <p style="font-size: 14px; text-align: justify; width:90%">
+                        DESCRIPT DESCRIPT
+                        <br><br>
+                        DESCRIPT
+                    </p>
+                    <br>
+                </div>
+                <div class="timeline-item">
+                    <p style="font-size: 30px; color: #de1310; font-family: 'BebasNeue', sans-serif;">3D Software Engineer</p>
+                    <p style="font-size: 12px; color: #b8b8b8;">July 2023 - November 2023 (4 months)</p>
+                    <p style="font-size: 14px; text-align: justify; width:90%">
+                        DESCRIPT<br><br>
+                        DESCRIPT
+                    </p>
+                </div>
+            </div>
         </div>
     </div>
     <script>
       document.getElementById('work11').addEventListener('click', () => {
           document.getElementById('work_timeline').style.display = 'block';
           document.getElementById('experience_timeline').style.display = 'none';
+          document.getElementById('smiley_timeline').style.display = 'none';
       });
       document.getElementById('experience11').addEventListener('click', () => {
           document.getElementById('experience_timeline').style.display = 'block';
           document.getElementById('work_timeline').style.display = 'none';
+          document.getElementById('smiley_timeline').style.display = 'none';
+      });
+      document.getElementById('smiley11').addEventListener('click', () => {
+          document.getElementById('smiley_timeline').style.display = 'block';
+          document.getElementById('work_timeline').style.display = 'none';
+          document.getElementById('experience_timeline').style.display = 'none';
       });
     </script>
+    
     
     
 </body>
