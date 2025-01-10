@@ -1,0 +1,7 @@
+{
+  "name": "sarp-tan-doven",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "node.js build --output public"
+  }
+}
