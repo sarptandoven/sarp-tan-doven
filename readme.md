@@ -4,7 +4,7 @@ I’m Sarp Doven, a visionary, developer, and entrepreneur, with a passion for i
 
 Check out my portfolio projects and experience to learn more about me! 
 
-:paperclip: [My Portfolio]([https://sarptandoven.github.io/portfolio/])
+:paperclip: [My Portfolio](https://sarptandoven.github.io/portfolio/)
 
 
 ### About me
