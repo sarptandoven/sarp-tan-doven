@@ -1,3 +1,21 @@
-#This is my personal portfolio!
+### Hey,
 
-It will be hosted soon :0
+I’m Sarp Doven, a visionary, developer, and entrepreneur, with a passion for innovation and technology. I love working on anything engineering or business related, and study engineering at the University of Waterloo! 
+
+Check out my portfolio projects and experience to learn more about me! 
+
+:paperclip: [My Portfolio]([https://sarptandoven.github.io/portfolio/])
+
+
+### About me
+- :paperclip: [My Resume/CV]
+- :email: sarptandoven@gmail.com
+
+<br/>
+
+### My stats
+
+<div align="center">
+<img alt="Maksym's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=sarptandoven&show_icons=true&theme=transparent"/>
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarptandoven&layout=compact&&langs_count=8"/>
+</div>
