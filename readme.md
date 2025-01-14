@@ -8,7 +8,7 @@ Check out my portfolio projects and experience to learn more about me!
 
 
 ### About me
-- :paperclip: [My Resume/CV]
+- :paperclip: My Resume
 - :email: sarptandoven@gmail.com
 
 <br/>
