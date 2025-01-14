@@ -1,6 +1,6 @@
 ### Hey,
 
-I’m Sarp Doven, a visionary, developer, and entrepreneur, with a passion for innovation and technology. I love working on anything engineering or business related, and study engineering at the University of Waterloo! 
+I’m Sarp Doven, a visionary, developer, and entrepreneur, with a passion for innovation and technology. I love working on anything engineering or business related, and I study engineering at the University of Waterloo! 
 
 Check out my portfolio projects and experience to learn more about me! 
 
